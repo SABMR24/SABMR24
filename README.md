@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/saadia bouzouai" target="blank"><img src="https://img.shields.io/twitter/follow/saadia bouzouai?logo=twitter&style=for-the-badge" alt="saadia bouzouai" /></a> </p>
 
-- 🌱 I’m currently learning **C-programming**
+- 🌱 I’m currently learning **full_stack programming**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/saadia-bouz-5a4a5a260/](https://www.linkedin.com/in/saadia-bouz-5a4a5a260/)
 
